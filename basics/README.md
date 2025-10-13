@@ -5,3 +5,4 @@
 # ls -a Display current directory contents, including hidden files (starting with .). Use the long format.
 # ls display the current contents
 # mkdir create a script that creates a directory named my_first_directory
+Move the file betty from /tmp/ to /tmp/my_first_directory.
