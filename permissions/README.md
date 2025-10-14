@@ -8,3 +8,4 @@ sudo chmod answer
 chmod 754 hello
 chmod 751 hello
 chmod a-x hello
+chmod 753 hello
