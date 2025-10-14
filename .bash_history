@@ -19,3 +19,6 @@ git status
 git add .
 git commit -m "tste"
 git push
+git add .
+git commit -m "tste"
+git push
