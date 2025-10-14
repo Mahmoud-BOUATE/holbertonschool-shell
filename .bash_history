@@ -9,3 +9,10 @@ git add .
 echo "hh" > 13-change_group
 git add .
 git init
+git add .
+git commit -m "test"
+git push
+git branch -M main
+git remote add origin https://github.com/Mahmoud-BOUATE/holbertonschool-shell.git
+git push -u origin main
+git status
