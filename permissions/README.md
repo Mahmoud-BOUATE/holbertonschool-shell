@@ -5,3 +5,4 @@ chown answer
 touch answer
 adduser answer
 sudo chmod answer
+chmod 754 hello
