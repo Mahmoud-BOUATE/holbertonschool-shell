@@ -13,4 +13,5 @@ chmod olleh hello
 chmod 775
 erer
 chgrp school hello
+chown vincent:staff *
 
