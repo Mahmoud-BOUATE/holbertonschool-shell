@@ -14,4 +14,5 @@ chmod 775
 erer
 chgrp school hello
 chown vincent:staff *
+chown -h vincent:staff _hello
 
