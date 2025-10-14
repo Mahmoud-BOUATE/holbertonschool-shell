@@ -15,4 +15,5 @@ erer
 chgrp school hello
 chown vincent:staff *
 chown -h vincent:staff _hello
+[ "$(stat -c %U hello)" = "guillaume" ] && chown vincent hello
 
