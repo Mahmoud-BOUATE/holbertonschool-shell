@@ -12,3 +12,5 @@ chmod 753 hello
 chmod olleh hello
 chmod 775
 erer
+chgrp school hello
+
