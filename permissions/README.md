@@ -4,3 +4,4 @@ groups answer
 chown answer
 touch answer
 adduser answer
+sudo chmod answer
