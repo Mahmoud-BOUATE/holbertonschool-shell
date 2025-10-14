@@ -16,3 +16,6 @@ git branch -M main
 git remote add origin https://github.com/Mahmoud-BOUATE/holbertonschool-shell.git
 git push -u origin main
 git status
+git add .
+git commit -m "tste"
+git push
