@@ -10,3 +10,4 @@ add answer for the task 8
 add answer for the task 9
 add answer for the task 10
 add answer for the task 11
+add answer for the task 12
