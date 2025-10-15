@@ -19,3 +19,4 @@ add answer for the task 18
 add answer for the task 19
 add answer for the task 20
 add answer for the task 21
+add answer for the task 22
